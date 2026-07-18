@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Beacon (Schneider Geospatial)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Adams County (Official Site)", category: "Government", subcategory: "County", url: "https://adamscountyoh.gov/", description: "Official government portal for Adams County Ohio." },
